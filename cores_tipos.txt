@@ -1,0 +1,19 @@
+fogo e42323
+grama 77e423
+psicico d96c98
+luta c96044
+inseto 3e932e
+fada eca7d8
+terra 823535
+veneno 851274
+normal c2bec1
+voador 29e2e8
+eletrico e8ce29
+agua 1ca3f1
+pedra 585a5b
+
+fontes
+Bradley Hand ITC Regular
+MV Boli Regular
+Showcard Gothic Regular
+Gill Sans Extranegrito

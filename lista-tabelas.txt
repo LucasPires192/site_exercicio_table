@@ -1,0 +1,18 @@
+
+
+1 - Criar uma tabela em html com 28 células distribuidas em duas linhas.
+O conteudo deve ser numérico.
+
+2 - Criar uma tabela em html 4 x 4, onde cada célula deve ter uma imagem.
+
+3 - Criar uma tabela em html com 16 linhas e 4 colunas, onde cada par de célula deve ter uma imagem e um título, por exemplo: Foto da escola em uma célula e nome da escola na outra com fonte diferente da padrão e colorida.
+
+
+A entrega deve ser feita em arquivos diferentes:
+Dica:
+
+index.html - com um link para cada exercício resolvido
+exe1.html
+exe2.html
+exe3.html
+Todas as paginas precisam ter o link para voltar para o inicio
